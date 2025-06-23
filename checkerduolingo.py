@@ -1,11 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Script de vérification de comptes Duolingo via Selenium
-Créé par Yann - 23 juin 2025
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Checker de comptes Duolingo par Selenium (Firefox)
 """
 
